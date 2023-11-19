@@ -1,6 +1,6 @@
 # CS589_Week10_HW4_Generating-Answers
 
-*Google slides:*
+*Google slides:* https://docs.google.com/presentation/d/1rZ9_BEVibgpoahRByMmsdf_R524L2Fs1_KWUpRtGO7M/edit?usp=sharing
 
 **Generating Answers**
 
