@@ -2,31 +2,26 @@
 
 *Google slides:*
 
-#################################################
-# Generating Answers
-#
-# Step 1: Preprocessing input texts
-#    Step 1.1: Split into a list of paragraphs
-#    Step 1.2: Clean up to remove empty spaces and 
-#              new line
-# Step 2: Embeddings
-#    Step 2.1: Chunking: Get the embeddings 
-#              (vectors) from input texts
-#    Step 2.2: Build a search index from embeddings
-#              (vectors) 
-#         Step 2.2.1: Check the dimensions of the 
-#                     embeddings
-#         Step 2.2.2: Create the search index, 
-#                     pass the size of embeddings
-#                     (size of vector)
-#    Step 2.3: Add all the vectors to the 
-#              search index
-# Step 3: Searching Articles
-# Step 4: Generating Answers
-#     Step 4.1: Generating Answers - Test Case 1
-#     Step 4.2: Generating Answers - Test Case 2 
-#     Step 4.3: Generating Answers - Test Case 3
-#################################################
+**Generating Answers**
+
+*Step 1: Preprocessing input texts*
+Step 1.1: Split into a list of paragraphs
+Step 1.2: Clean up to remove empty spaces and new line
+
+*Step 2: Embeddings*
+Step 2.1: Chunking: Get the embeddings (vectors) from input texts
+Step 2.2: Build a search index from embeddings (vectors) 
+Step 2.2.1: Check the dimensions of the embeddings
+Step 2.2.2: Create the search index, pass the size of embeddings (size of vector) 
+Step 2.3: Add all the vectors to the search index
+
+*Step 3: Searching Articles*
+
+*Step 4: Generating Answers*
+Step 4.1: Generating Answers - Test Case 1
+Step 4.2: Generating Answers - Test Case 2 
+Step 4.3: Generating Answers - Test Case 3
+
 
 **Input Texts**
 Textual data or documents that you want to process and make searchable.
